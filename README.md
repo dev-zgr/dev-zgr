@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am a first year M.Sc. student in Computer Science at **Bilkent University** in the **[BILSEN](https://bilsen.cs.bilkent.edu.tr)** research group under the supervision of **[Dr. Eray Tüzün](https://scholar.google.com/citations?user=D4jovncAAAAJ&hl=en)**. Before that, I graduated **2<sup>nd</sup> in my class** from the Software Engineering program at Ankara University in June 2026.
+I am a first year M.Sc. student in Computer Science at **Bilkent University** in the **[BILSEN](https://bilsen.cs.bilkent.edu.tr)** research group under the supervision of **[Dr. Eray Tuzun](https://scholar.google.com/citations?user=D4jovncAAAAJ&hl=en)**. Before that, I graduated **2nd in my class** from the Software Engineering program at Ankara University in June 2026.
 
 My research is in **Software Engineering**. I am mainly interested in how LLMs and coding agents change software engineering processes like code review and how we can evaluate these tools empirically, both on open-source data and in industry with real developers.
 
@@ -25,7 +25,7 @@ class Researcher:
     name        = "Hüseyin Özgür Kamalı"
     affiliation = "BILSEN Research Group, Bilkent University"
     degree      = "M.Sc. in Computer Science (2026 - 2028)"
-    advisor     = "Dr. Eray Tüzün"
+    advisor     = "Dr. Eray Tuzun"
     interests   = ["Empirical Software Engineering", "AI4SE",
                    "LLMs and Agentic AI", "Code Review"]
     industry    = ["Turkish Airlines", "Fibabanka"]
@@ -33,7 +33,7 @@ class Researcher:
 
 ## Current Research
 
-- 🤖 &nbsp;**Agentic code review:** a vision for code review where agents do the analysis and humans keep the control points, and whether agent skills improve LLM-based review
+- 🤖 &nbsp;**Agentic code review:** a vision for code review where agents do the analysis and humans keep the control points and whether agent skills improve LLM-based review
 - 🔀 &nbsp;**Pull request and code change analysis:** fine-tuned LLMs for pull request-issue alignment and tangled line localization
 - 🏭 &nbsp;**Industrial case studies:** evaluating LLM-based tools with the developers who use them at [Turkish Airlines](https://www.turkishairlines.com/en-int/) and [Fibabanka](https://www.fibabanka.com.tr/en)
 
